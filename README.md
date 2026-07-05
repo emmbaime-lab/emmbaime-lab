@@ -6,11 +6,6 @@
 
 </div>
 
-<br>
-
-Computer Science & Engineering grad who likes building things, turns out half the job is fixing what I just built.
-
-<br>
 
 ### 🔨 Currently building
 
@@ -23,12 +18,6 @@ A backend ticket system for tracking and resolving support requests, built in C#
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-4B5563?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-4B5563?style=for-the-badge)
-
-### 📈 GitHub stats
-
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmbaime-lab&show_icons=true&theme=dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmbaime-lab&layout=compact&theme=dark&hide_border=true)
 
 ### 📫 Reach me
 
