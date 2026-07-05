@@ -8,7 +8,7 @@
 
 <br>
 
-Computer Science & Engineering grad who likes building things — turns out half the job is fixing what I just built.
+Computer Science & Engineering grad who likes building things, turns out half the job is fixing what I just built.
 
 <br>
 
